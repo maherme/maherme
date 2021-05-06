@@ -3,7 +3,7 @@
 I am a telecommunication engineer, specialized in software embedded development and very interested in new technologies.
 
 - 🔭 I’m currently working on automotive embedded software and build enviroment using waf.
-- 🌱 I’m currently learning about virtualization and new languages like Go or Rust.
+- 🌱 I’m currently learning about virtualization and new languages like [Go](https://golang.org/) or [Rust](https://www.rust-lang.org/).
 
 ## Languages:
 <p align="left">
