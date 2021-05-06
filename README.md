@@ -2,6 +2,30 @@
 
 I am a telecommunication engineer, specialized in software embedded development and very interested in new technologies.
 
+- 🔭 I’m currently working on automotive embedded software and build enviroment using waf.
+- 🌱 I’m currently learning about virtualization and new languages like Go or Rust.
+
+## Languages:
+<p align="left">
+  <a href=""><img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" width="61" height="61"></a>
+  <a href="https://www.cplusplus.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png" width="61" height="61"></a>
+  <a href="https://www.python.org/"><img src="https://www.pinclipart.com/picdir/big/8-87985_whether-a-seasoned-python-programmer-or-a-python.png" width="61" height="61"></a>
+  <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"><img src="https://tiswww.case.edu/php/chet/img/bash-logo-web.png" width="150" height="61"></a>
+</p>
+
+## Tools:
+<p align="left">
+  <a href="https://www.gnu.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png" width="61" height="61"></a>
+  <a href="https://www.kernel.org/"><img src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif" width="81" height="81"></a>
+  <a href="https://getfedora.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png" width="61" height="61"></a>
+  <a href="https://gcc.gnu.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="61" height="61"></a>
+  <a href="https://waf.io/"><img src="https://upload.wikimedia.org/wikipedia/en/f/fe/Waf_Logo.jpg" width="61" height="61"></a>
+  <a href="https://www.gnu.org/software/gdb/"><img src="https://www.gnu.org/software/gdb/images/archer.svg" width="100" height="61"></a>
+  <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" width="150" height="61"></a>
+  <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png" width="200" height="61"></a>
+  <a href="https://www.jenkins.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" width="200" height="61"></a>
+</p>
+
 <!--
 **maherme/maherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
