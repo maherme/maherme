@@ -5,6 +5,23 @@ I am a telecommunication engineer, specialized in software embedded development 
 - 🔭 I’m currently working on automotive embedded software and build enviroment using waf.
 - 🌱 I’m currently learning about virtualization and new languages like [Go](https://golang.org/) or [Rust](https://www.rust-lang.org/).
 
+## Repositories:
+### Embedded:
+- [nucleo-f446re-scratch](../../../nucleo-f446re-scratch) : an embedded project for NUCLEO-F446RE board coded from scratch.
+
+### GNU Linux:
+- [system-service](../../../system-service) : a skeleton of a system service implementation for GNU Linux.
+- [logging-daemon](../../../logging-daemon) : a program which is taking care of system logs on a GNU Linux OS.
+
+### Applications:
+- [cpp-buffer](../../../cpp-buffer) : a buffer based on priority queue.
+
+### Academic:
+- [go_examples](../../../go_examples)
+- [c-examples](../../../c-examples)
+- [bash-examples](../../../bash-examples)
+- [python-deep-dive](../../../python-deep-dive)
+
 ## Languages:
 <p align="left">
   <a href=""><img src="https://www.pinclipart.com/picdir/big/396-3965857_c-c-programming-language-logo-clipart.png" width="61" height="61"></a>
