@@ -15,6 +15,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 
 ### Applications:
 - [cpp-buffer](../../../cpp-buffer) : a buffer based on priority queue.
+- [memory-game](../../../memory-game) : a memory game based on Qt framework.
 
 ### Academic:
 - [go_examples](../../../go_examples)
