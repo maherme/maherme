@@ -8,6 +8,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 ## Repositories:
 ### Embedded:
 - [nucleo-f446re-scratch](../../../nucleo-f446re-scratch) : an embedded project for NUCLEO-F446RE board coded from scratch.
+- [f446re-rtc-lcd](../../../f446re-rtc-lcd) : an embedded project using stm32f446re microcontroller connected to RTC and LCD.
 
 ### GNU Linux:
 - [system-service](../../../system-service) : a skeleton of a system service implementation for GNU Linux.
