@@ -9,6 +9,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 ### Embedded:
 - [nucleo-f446re-scratch](../../../nucleo-f446re-scratch) : an embedded project for NUCLEO-F446RE board coded from scratch.
 - [f446re-rtc-lcd](../../../f446re-rtc-lcd) : an embedded project using stm32f446re microcontroller connected to RTC and LCD.
+- [nucleo-f446re-bootloader](../../../nucleo-f446re-bootloader) : and embedded project for a bootloader from scratch based on NUCLEO-F446RE board.
 
 ### GNU Linux:
 - [system-service](../../../system-service) : a skeleton of a system service implementation for GNU Linux.
