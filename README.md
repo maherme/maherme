@@ -37,7 +37,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 ## Tools:
 <p align="left">
   <a href="https://www.gnu.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Heckert_GNU_white.svg/1024px-Heckert_GNU_white.svg.png" width="61" height="61"></a>
-  <a href="https://www.kernel.org/"><img src="https://isc.tamu.edu/~lewing/linux/sit3-shine.7.gif" width="81" height="81"></a>
+  <a href="https://www.kernel.org/"><img src="https://www.kernel.org/theme/images/logos/tux.png" width="81" height="81"></a>
   <a href="https://getfedora.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png" width="61" height="61"></a>
   <a href="https://gcc.gnu.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="61" height="61"></a>
   <a href="https://waf.io/"><img src="https://upload.wikimedia.org/wikipedia/en/f/fe/Waf_Logo.jpg" width="61" height="61"></a>
