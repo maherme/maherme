@@ -49,6 +49,7 @@ I am a telecommunication engineer, specialized in software embedded development 
   <a href="https://podman.io/"><img src="https://user-images.githubusercontent.com/76045557/117368055-50a86100-aec3-11eb-8bdf-9051453d0406.png" width="61" height="61"></a>
   <a href="https://www.jenkins.io/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/1920px-Jenkins_logo_with_title.svg.png" width="200" height="61"></a>
   <a href="https://www.yoctoproject.org/"><img src="https://www.yoctoproject.org/wp-content/uploads/2020/05/YoctoProject_Logo_RGB_White_small.svg"></a>
+  <a href="https://www.freertos.org/"><img src="https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" width="161" height="61"></a>
 </p>
 
 <!--
