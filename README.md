@@ -24,10 +24,11 @@ I am a telecommunication engineer, specialized in software embedded development 
 - [memory-game](../../../memory-game) : a memory game based on Qt framework.
 
 ### Academic:
-- [go_examples](../../../go_examples)
-- [c-examples](../../../c-examples)
-- [bash-examples](../../../bash-examples)
-- [python-deep-dive](../../../python-deep-dive)
+- [go examples](../../../go_examples)
+- [c examples](../../../c-examples)
+- [bash examples](../../../bash-examples)
+- [python deep dive](../../../python-deep-dive)
+- [design patterns](../../../design_patterns)
 
 ## Languages:
 <p align="left">
