@@ -14,6 +14,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 - [stm32f429i-disc1-usb](../../../stm32f429i-disc1-usb) : an embedded project for an USB driver from scratch based on STM32F429I-DISC1 board.
 - [beaglebone-black-examples](../../../beaglebone-black-examples) : some examples about starting, configuring and managing some drivers using a Beaglebone Black board with different linux distributions.
 - [zilog_z80](../../../zilog_z80) : some examples in machine code and assembly for the Zilog Z80 (WinAPE emulator is used).
+- [x86-64-yocto](../../../x86-64-yocto) : some simple recipes in yocto for building an image for x86-64 CPU architecture.
 
 ### GNU Linux:
 - [system-service](../../../system-service) : a skeleton of a system service implementation for GNU Linux.
