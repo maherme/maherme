@@ -9,7 +9,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 ### Embedded:
 - [nucleo-f446re-scratch](../../../nucleo-f446re-scratch) : an embedded project for NUCLEO-F446RE board coded from scratch.
 - [f446re-rtc-lcd](../../../f446re-rtc-lcd) : an embedded project using stm32f446re microcontroller connected to RTC and LCD.
-- [nucleo-f446re-bootloader](../../../nucleo-f446re-bootloader) : and embedded project for a bootloader from scratch based on NUCLEO-F446RE board.
+- [nucleo-f446re-bootloader](../../../nucleo-f446re-bootloader) : an embedded project for a bootloader from scratch based on NUCLEO-F446RE board.
 - [nucleo-f446re-freertos](../../../nucleo-f446re-freertos) : a collection of projects using the FreeRTOS on NUCLEO-F446RE board.
 - [stm32f429i-disc1-usb](../../../stm32f429i-disc1-usb) : an embedded project for an USB driver from scratch based on STM32F429I-DISC1 board.
 - [beaglebone-black-examples](../../../beaglebone-black-examples) : some examples about starting, configuring and managing some drivers using a Beaglebone Black board with different linux distributions.
