@@ -47,6 +47,7 @@ I am a telecommunication engineer, specialized in software embedded development 
   <a href="https://getfedora.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/267px-Fedora_logo.svg.png" width="61" height="61"></a>
   <a href="https://gcc.gnu.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" width="61" height="61"></a>
   <a href="https://waf.io/"><img src="https://upload.wikimedia.org/wikipedia/en/f/fe/Waf_Logo.jpg" width="61" height="61"></a>
+  <a href="https://cmake.org/"><img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" width="161" height="61"></a>
   <a href="https://www.gnu.org/software/gdb/"><img src="https://www.gnu.org/software/gdb/images/archer.svg" width="100" height="61"></a>
   <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" width="150" height="61"></a>
   <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png" width="200" height="61"></a>
