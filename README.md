@@ -31,6 +31,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 - [python deep dive](../../../python-deep-dive)
 - [design patterns](../../../design_patterns)
 - [TDD examples](../../../TDD-examples)
+- [Threads](../../../threads)
 
 ## Languages:
 <p align="left">
