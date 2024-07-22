@@ -32,6 +32,7 @@ I am a telecommunication engineer, specialized in software embedded development 
 - [design patterns](../../../design_patterns)
 - [TDD examples](../../../TDD-examples)
 - [Threads](../../../threads)
+- [crafting_interpreters](../../../crafting_interpreters)
 
 ## Languages:
 <p align="left">
