@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I am a telecommunication engineer, specialized in software embedded development and very interested in new technologies.
+I am a telecommunication engineer, specialized in software development and very interested in new technologies.
 
-- 🔭 I’m currently working on embedded software solutions for smart electric vehicle charging.
+- 🔭 I’m currently working on firmware solutions for high performance computing on RISC-V architecture.
 - 🌱 I’m currently learning about virtualization and and delving deeper into the Unix operating system.
 
 ## Repositories:
