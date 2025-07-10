@@ -55,7 +55,7 @@ I am a telecommunication engineer, specialized in software embedded development 
   <a href="https://www.docker.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png" width="200" height="61"></a>
   <a href="https://podman.io/"><img src="https://user-images.githubusercontent.com/76045557/117368055-50a86100-aec3-11eb-8bdf-9051453d0406.png" width="61" height="61"></a>
   <a href="https://www.yoctoproject.org/"><img src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg"></a>
-  <a href="https://www.freertos.org/"><img src="https://www.freertos.org/fr-content-src/uploads/2018/07/logo-1.jpg" width="161" height="61"></a>
+  <a href="https://www.freertos.org/"><img src="https://www.freertos.org/media/2023/logo.png" width="161" height="61"></a>
 </p>
 
 <!--
